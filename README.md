@@ -1,6 +1,4 @@
-# Eligiendo Sabiamente Tus Herramientas de Vibe Coding 🚀  
-  
-## Tabla de Herramientas 📊  
+TABLA DE HERRAMIENTAS 
 Herramienta	UI/UX	Costo	Velocidad	Control	Calidad	Tu Nota (1-5)	Notas
 Vercel v0	5	3	5	2	5	4	Muy buena UI pero poco control
 Replit	4	1	4	1	5	3	Gratuito pero dependiente
